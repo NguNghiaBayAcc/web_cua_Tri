@@ -3,13 +3,16 @@ body {
 }
 
 .Hmm {
-    margin-top: calc(50% - 272 / 2) 0;
-    width: 100%;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
 }
 
 .Hmm h1 {
     color: #fff;
-    text-align: center;
 }
 
 .image {
